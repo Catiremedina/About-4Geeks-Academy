@@ -1,0 +1,42 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+  # Profile information
+  first_name: BENJAMIN
+  last_name: MEDINA
+  
+  # Sidebar links
+  email: CATIREMEDINA@GMAIL.COM
+  phone: 0424 901 9816
+  github: CATIREMEDINA
+ 
+
+  languages:
+    - idiom: Spanish
+      level: Native
+
+    - idiom: English
+      level: Native
+
+  interests:
+    - item: Gaming
+
+    - item: Learning
+
+education:
+ 
+experiences:
+  - role: Gerente de ventas
+    time: 01/2012 - 02/2022
+    company: PROMOTORA PASEO SAN MIGUEL
+    details: |
+        -  VENTAS DE LOCALES COMERCIALES 
+        
+
+skills:
+PHOTOGRAPHY:60%
+PROGRAMMING :40%
